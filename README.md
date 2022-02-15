@@ -1,6 +1,6 @@
 # UNet: semantic segmentation with PyTorch
 
-![image-20220215201142461](C:\Users\ASUS\Desktop\work\FinalProject\Pytorch-UNet-master\Pytorch-UNet-master\image-20220215201142461.png)
+![image-20220215201142461](.\image-20220215201142461.png)
 
 
 Customized implementation of the [U-Net](https://arxiv.org/abs/1505.04597) in PyTorch for Kaggle's [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge) from high definition images.
